@@ -83,4 +83,12 @@ img {
     color: hsl(0, 0%, 59%);
 }
 
+.attribution {
+    font-size: 18px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
 
